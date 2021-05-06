@@ -1,0 +1,27 @@
+warning: Tag 'COLS_IN_ALPHA_INDEX' at line 1180 of file 'Doxyfile-1.8.20-personalizado' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: The selected output language "spanish" has not been updated
+since release 1.8.15.  As a result some sentences may appear in English.
+
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/AccesoArchivoJugador.java:12: warning: Compound jugadores::liga::AccesoArchivoJugador is not documented.
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/ExceptionVistaAltas.java:3: warning: Compound jugadores::liga::ExceptionVistaAltas is not documented.
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/VistaAltaJugadores.java:5: warning: Compound jugadores::liga::VistaAltaJugadores is not documented.
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/JugadorTest1.java:177: warning: unable to resolve link to 'jugadores.liga.Jugador#toStringCSV(java.lang.String)' for \link command
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/ControlJugadores.java:32: warning: Member in (variable) of class jugadores::liga::ControlJugadores is not documented.
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/Deportes.java:13: warning: Member FUTBOL (variable) of enum jugadores::liga::Deportes is not documented.
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/Deportes.java:13: warning: Member BALONCESTO (variable) of enum jugadores::liga::Deportes is not documented.
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/Deportes.java:13: warning: Member BALONMANO (variable) of enum jugadores::liga::Deportes is not documented.
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/Deportes.java:13: warning: Member TENIS (variable) of enum jugadores::liga::Deportes is not documented.
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/Deportes.java:13: warning: Member PETANCA (variable) of enum jugadores::liga::Deportes is not documented.
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/Deportes.java:13: warning: Member PADEL (variable) of enum jugadores::liga::Deportes is not documented.
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/Deportes.java:13: warning: Member CICLISMO (variable) of enum jugadores::liga::Deportes is not documented.
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/ExceptionVistaAltas.java:29: warning: unable to resolve link to 'Throwable' for \link command
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/ExceptionVistaAltas.java:39: warning: unable to resolve link to 'Throwable' for \link command
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/JugadorException.java:5: warning: Found unknown command '@versi'
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/JugadorException.java:35: warning: unable to resolve link to 'Throwable' for \link command
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/JugadorException.java:45: warning: unable to resolve link to 'Throwable' for \link command
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/JugadorTest1.java:177: warning: unable to resolve link to 'jugadores.liga.Jugador#toStringCSV(java.lang.String)' for \link command
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/VistaAltaJugadores.java:74: warning: The following parameter of jugadores.liga.VistaAltaJugadores.pedirConfirmación(String mensaje, Jugador jugadorNuevo) is not documented:
+  parameter 'jugadorNuevo'
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/VistaGeneral.java:56: warning: return type of member jugadores.liga.VistaGeneral.recogerTexto is not documented
+D:/ivan/java2020/eclipse/jugadores/src/jugadores/liga/VistaMenu.java:95: warning: parameters of member jugadores.liga.VistaMenu.mostrarMensaje are not (all) documented
