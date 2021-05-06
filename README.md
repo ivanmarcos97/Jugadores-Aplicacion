@@ -1,1 +1,4 @@
 # Jugadores-Aplicacion
+
+
+aplicacion practica
